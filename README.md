@@ -1,4 +1,4 @@
-# proj326-LoRa unvarnished transmission for-XiUOS
+# proj328-LoRa unvarnished transmission for-XiUOS
 # 基于XiUOS矽璓工业物联操作系统XiZi内核，开发支持LoRa到RS485接口的数据透传功能。
 
 ### 支持单位  
